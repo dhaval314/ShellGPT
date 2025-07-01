@@ -39,9 +39,6 @@ Run this command? (y/n): y
 
 - Python 3.8+
 - [Cohere Command R+](https://cohere.com/) (LLM)
-- `python-dotenv` for `.env` key management
-- `subprocess` for command execution
-- `shlex` for safe shell parsing
 
 ---
 
